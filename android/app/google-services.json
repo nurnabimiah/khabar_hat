@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313481748340",
+    "project_id": "stk-organic",
+    "storage_bucket": "stk-organic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313481748340:android:a477eaf9c7d715a9bc9621",
+        "android_client_info": {
+          "package_name": "com.stkorganic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_ja9yJHI2YZ_QaYsLEjh_ie6Ixado0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
