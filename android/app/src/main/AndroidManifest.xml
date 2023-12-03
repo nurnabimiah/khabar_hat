@@ -26,7 +26,8 @@
 
     </queries>
 
-    <application android:icon="@mipmap/ic_launcher" android:requestLegacyExternalStorage="true" android:usesCleartextTraffic="true" android:label="stkOrganic">
+    <application android:icon="@mipmap/ic_launcher" android:requestLegacyExternalStorage="true"
+        android:usesCleartextTraffic="true" android:label="Kharbar Hat">
         android:allowBackup="false"
         android:fullBackupContent="false"
         <meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_MAP_KEY_HERE"/>

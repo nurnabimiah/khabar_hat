@@ -62,6 +62,7 @@ class Images {
   static const String partialPay = 'assets/image/partial_pay.png';
   static const String note = 'assets/image/note.png';
   static const String appleLogo = 'assets/image/apple_logo.png';
+
   static const String walletCardShape = 'assets/image/wallet_card_shape.png';
   static const String walletIcon = 'assets/image/wallet_icon.png';
   static const String walletBanner = 'assets/image/wallet_banner.png';
@@ -74,7 +75,8 @@ class Images {
 
 
   // Image
-  static const String appLogo = 'assets/image/stk_organic_app_icon_fav.jpeg';
+  //static const String appLogo = 'assets/image/stk_organic_app_icon_fav.jpeg';
+  static const String appLogo = 'assets/image/khabar_hat_logo.png';
   static const String webBarLogoPlaceHolder = 'assets/image/web_bar_logo_place_holder.png';
   static const String onBoarding1 = 'assets/image/on_boarding_1.png';
   static const String onBoarding2 = 'assets/image/on_boarding_2.png';

@@ -3,7 +3,7 @@ import 'package:flutter_grocery/helper/app_mode.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String appName = 'stkOrganic';
+  static const String appName = 'Kharbar Hat';
   static const double appVersion = 7.2;
   static const AppMode appMode = AppMode.release;
   static const String baseUrl = 'https://app.stkorganic.com';

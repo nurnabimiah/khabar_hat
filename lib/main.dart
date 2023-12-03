@@ -38,6 +38,7 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'package:url_strategy/url_strategy.dart';
+
 import 'di_container.dart' as di;
 import 'helper/notification_helper.dart';
 import 'localization/app_localization.dart';
@@ -201,7 +202,8 @@ class _MyAppState extends State<MyApp> {
             PointerDeviceKind.unknown
           }),
           builder: (context, widget)=> MediaQuery(
-            data: MediaQuery.of(context).copyWith(textScaler: const TextScaler.linear(1)),
+            // data: MediaQuery.of(context).copyWith(textScaler:  TextScaler.linear(1)),
+            data: MediaQuery.of(context).copyWith(textScaleFactor: 1),
             child: Material(child: Stack(children: [
               widget!,
 
